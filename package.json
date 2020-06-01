@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/SammuelGR/typescript.git",
   "author": "Sammuel Reis <sammugr@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
